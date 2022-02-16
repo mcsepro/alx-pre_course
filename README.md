@@ -1,2 +1,1 @@
-Here is my ALX [link][1] 
-[1]: https://alx-intranet.hbtn.io/projects/1106/ "Title"
+I'm now a ALX Student, this is my first repository as a full-stack engineer
