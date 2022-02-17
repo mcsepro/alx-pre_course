@@ -1,0 +1,5 @@
+*.log	error.log
+logs/debug.log
+build/logs/error.log
+.DS_Store
+/node_modules
